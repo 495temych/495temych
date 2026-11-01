@@ -4,7 +4,7 @@
 
 **MSc Business Engineering @ ZHAW · AI Engineer / AI Consultant in the making · Zürich** 🇨🇭
 
-*I build AI systems that solve a business problem with a measurable impact.*
+*I focus on building AI systems that solve business problems with measurable impact.*
 
 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Tableau Public](https://public.tableau.com/app/profile/artemii.ponomarenko) · [Email](mailto:YOUR-EMAIL)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Core stack
+## 🛠️ Core stack
 
 | Area | Tools |
 |---|---|
