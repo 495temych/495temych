@@ -2,7 +2,7 @@
 
 # Artemii Ponomarenko
 
-**MSc Business Engineering @ ZHAW · AI Engineer / AI Consultant in the making · Zürich** 🇨🇭
+**MSc Business Engineering @ ZHAW · AI Engineer / AI Consultant in the making · Zürich**
 
 *I focus on building AI systems that solve business problems with measurable impact.*
 
